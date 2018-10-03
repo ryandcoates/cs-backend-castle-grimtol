@@ -1,0 +1,9 @@
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.csprojAssemblyReference.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.csproj.CoreCompileInputs.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.AssemblyInfoInputs.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.AssemblyInfo.cs
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\bin\Debug\netcoreapp2.1\libgrimtol.deps.json
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\bin\Debug\netcoreapp2.1\libgrimtol.dll
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\bin\Debug\netcoreapp2.1\libgrimtol.pdb
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.dll
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\libgrimtol\obj\Debug\netcoreapp2.1\libgrimtol.pdb

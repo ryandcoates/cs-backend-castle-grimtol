@@ -1,0 +1,11 @@
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.csprojAssemblyReference.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.csproj.CoreCompileInputs.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.AssemblyInfoInputs.cache
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.AssemblyInfo.cs
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\bin\Debug\netcoreapp2.1\CastleGrimtol.deps.json
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\bin\Debug\netcoreapp2.1\CastleGrimtol.runtimeconfig.json
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\bin\Debug\netcoreapp2.1\CastleGrimtol.runtimeconfig.dev.json
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\bin\Debug\netcoreapp2.1\CastleGrimtol.dll
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\bin\Debug\netcoreapp2.1\CastleGrimtol.pdb
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.dll
+C:\Users\ryan.coates\OneDrive - Pheo.org\Documents\WorkingDir\BCW-CSharp18\cs-backend-castle-grimtol\cs-backend-castle-grimtol\CastleGrimtol\CastleGrimtol\obj\Debug\netcoreapp2.1\CastleGrimtol.pdb
